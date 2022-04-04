@@ -1,0 +1,14 @@
+C:\Users\LEGION\source\repos\Homework01042022\Homework01042022\bin\Debug\netcoreapp3.1\Homework01042022.exe
+C:\Users\LEGION\source\repos\Homework01042022\Homework01042022\bin\Debug\netcoreapp3.1\Homework01042022.deps.json
+C:\Users\LEGION\source\repos\Homework01042022\Homework01042022\bin\Debug\netcoreapp3.1\Homework01042022.runtimeconfig.json
+C:\Users\LEGION\source\repos\Homework01042022\Homework01042022\bin\Debug\netcoreapp3.1\Homework01042022.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\Homework01042022\Homework01042022\bin\Debug\netcoreapp3.1\Homework01042022.dll
+C:\Users\LEGION\source\repos\Homework01042022\Homework01042022\bin\Debug\netcoreapp3.1\Homework01042022.pdb
+C:\Users\LEGION\source\repos\Homework01042022\Homework01042022\obj\Debug\netcoreapp3.1\Homework01042022.csproj.AssemblyReference.cache
+C:\Users\LEGION\source\repos\Homework01042022\Homework01042022\obj\Debug\netcoreapp3.1\Homework01042022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\source\repos\Homework01042022\Homework01042022\obj\Debug\netcoreapp3.1\Homework01042022.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Homework01042022\Homework01042022\obj\Debug\netcoreapp3.1\Homework01042022.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Homework01042022\Homework01042022\obj\Debug\netcoreapp3.1\Homework01042022.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Homework01042022\Homework01042022\obj\Debug\netcoreapp3.1\Homework01042022.dll
+C:\Users\LEGION\source\repos\Homework01042022\Homework01042022\obj\Debug\netcoreapp3.1\Homework01042022.pdb
+C:\Users\LEGION\source\repos\Homework01042022\Homework01042022\obj\Debug\netcoreapp3.1\Homework01042022.genruntimeconfig.cache
